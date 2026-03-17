@@ -1,16 +1,27 @@
-## Hi there 👋
+![Imagem de boas vindas!]
 
-<!--
-**nicco0m/nicco0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 Quem sou eu? 
+Meu nome é Ana Letícia Mendes e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
+Busco sempre melhorar minhas habilidades em programação, aprender coisas novas nunca será demais. 
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo: Java, Phyton e HTML.
+- 🔭 No momento busco oportunidades que possam me trazer desafios verdadeiros.
+- 📫 Contato: analeticiamsousa@gmail.com
+- ⚡ Fato divertido: não vivo sem uma partida de vavazinho, ninguém é de ferro! 😄 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Estou estudando
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+## 📊 Status
+<div alinhar="centro">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicco0m&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicco0m&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicco0m&theme=jolly)
+
+</div>
+
+## 📩 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-mendes-62ab7b26b/)
