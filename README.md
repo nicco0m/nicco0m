@@ -2,7 +2,7 @@
 
 ### 🤔 Quem sou eu? 
 Meu nome é Ana Letícia Mendes, tenho 21 anos e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
-Busco sempre melhorar minhas habilidades em programação, aprendizado nunca será demais. 
+Estou sempre buscando melhorar minhas habilidades em programação, aprendizado nunca será demais. 
 
 - 🌱 Atualmente estou aprendendo: Java, Phyton e HTML.
 - 🔭 No momento busco oportunidades que possam me trazer aprimoramentos no meu ensino.
