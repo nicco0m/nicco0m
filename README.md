@@ -1,13 +1,12 @@
 ![Image](https://github.com/user-attachments/assets/ea20cb7d-ad2c-4671-a4cd-148d7e71fadd)
 
 ### 🤔 Quem sou eu? 
-Meu nome é Ana Letícia Mendes e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
+Meu nome é Ana Letícia Mendes, tenho 21 anos e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
 Busco sempre melhorar minhas habilidades em programação, aprender coisas novas nunca será demais. 
 
 - 🌱 Atualmente estou aprendendo: Java, Phyton e HTML.
 - 🔭 No momento busco oportunidades que possam me trazer desafios verdadeiros.
 - 📫 Contato: analeticiamsousa@gmail.com
-- ⚡ Fato divertido: não vivo sem uma partida de vavazinho, ninguém é de ferro! 😄 
 
 ## 👨‍💻 Estou estudando
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
@@ -24,4 +23,7 @@ Busco sempre melhorar minhas habilidades em programação, aprender coisas novas
 </div>
 
 ## 📩 Contato
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzBlQfdnqJGjKwJNNcLffGZjbnGPXZxqkVtShpnMBXWJbhwbPnsgcwMWLXxrSrhnvsXqrQg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-mendes-62ab7b26b/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nicco0m/)
+
