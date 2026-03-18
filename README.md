@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/ea20cb7d-ad2c-4671-a4cd-148d7e71fadd)
+![Image](https://github.com/user-attachments/assets/9c9692cc-c002-4a39-bab1-3c40ef54841f)
 
 ### 🤔 Quem sou eu? 
 Meu nome é Ana Letícia Mendes, tenho 21 anos e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
