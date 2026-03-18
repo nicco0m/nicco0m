@@ -1,4 +1,4 @@
-![Imagem de boas vindas!]
+![Image](https://github.com/user-attachments/assets/ea20cb7d-ad2c-4671-a4cd-148d7e71fadd)
 
 ### 🤔 Quem sou eu? 
 Meu nome é Ana Letícia Mendes e sou estudante de Engenharia de Software no Centro Universitário da Filadelfia - UNIFIL. Gosto de desenvolvimento full-stack.
