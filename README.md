@@ -23,7 +23,6 @@ Estou sempre buscando melhorar minhas habilidades em programação, aprendizado 
 </div>
 
 ## 📩 Contato
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzBlQfdnqJGjKwJNNcLffGZjbnGPXZxqkVtShpnMBXWJbhwbPnsgcwMWLXxrSrhnvsXqrQg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-mendes-62ab7b26b/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/nicco0m/)
 
